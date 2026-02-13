@@ -1,0 +1,1001 @@
+user_id,group,device,region,traffic_source,converted,order_value,revenue
+1,A,Desktop,North America,Email,1,94.89836440907895,94.89836440907895
+2,B,Tablet,North America,Email,0,0.0,0.0
+3,A,Mobile,North America,Email,0,0.0,0.0
+4,A,Mobile,Europe,Ads,0,0.0,0.0
+5,A,Mobile,North America,Organic,0,0.0,0.0
+6,B,Mobile,Europe,Organic,0,0.0,0.0
+7,A,Mobile,North America,Ads,0,0.0,0.0
+8,A,Mobile,Asia,Ads,0,0.0,0.0
+9,A,Mobile,Europe,Ads,0,0.0,0.0
+10,B,Desktop,Asia,Ads,0,0.0,0.0
+11,A,Tablet,Europe,Email,0,0.0,0.0
+12,A,Mobile,Asia,Organic,1,33.25994401622436,33.25994401622436
+13,A,Desktop,North America,Email,0,0.0,0.0
+14,A,Desktop,North America,Organic,0,0.0,0.0
+15,B,Tablet,North America,Organic,1,139.88624865820597,139.88624865820597
+16,A,Mobile,Europe,Ads,0,0.0,0.0
+17,B,Tablet,Asia,Email,0,0.0,0.0
+18,B,Mobile,North America,Ads,0,0.0,0.0
+19,B,Desktop,Asia,Email,0,0.0,0.0
+20,A,Desktop,Asia,Organic,0,0.0,0.0
+21,B,Desktop,North America,Ads,0,0.0,0.0
+22,A,Desktop,North America,Ads,1,26.84755540549028,26.84755540549028
+23,B,Tablet,Asia,Organic,0,0.0,0.0
+24,B,Mobile,North America,Organic,0,0.0,0.0
+25,B,Mobile,North America,Organic,0,0.0,0.0
+26,B,Tablet,North America,Ads,0,0.0,0.0
+27,B,Mobile,Europe,Email,0,0.0,0.0
+28,B,Desktop,Asia,Ads,0,0.0,0.0
+29,B,Mobile,Asia,Email,0,0.0,0.0
+30,B,Desktop,Europe,Ads,0,0.0,0.0
+31,A,Tablet,Asia,Ads,1,31.258053766532978,31.258053766532978
+32,A,Mobile,North America,Organic,0,0.0,0.0
+33,B,Tablet,Asia,Email,0,0.0,0.0
+34,B,Mobile,North America,Ads,0,0.0,0.0
+35,B,Desktop,Europe,Ads,1,34.14594718545951,34.14594718545951
+36,A,Tablet,North America,Organic,0,0.0,0.0
+37,B,Mobile,Asia,Organic,1,130.96590665394965,130.96590665394965
+38,A,Desktop,Asia,Email,0,0.0,0.0
+39,A,Tablet,Asia,Ads,0,0.0,0.0
+40,A,Tablet,Europe,Email,0,0.0,0.0
+41,A,Mobile,Europe,Ads,0,0.0,0.0
+42,A,Mobile,Asia,Email,0,0.0,0.0
+43,B,Mobile,North America,Organic,0,0.0,0.0
+44,B,Desktop,Europe,Ads,0,0.0,0.0
+45,B,Mobile,Asia,Email,0,0.0,0.0
+46,B,Tablet,Asia,Organic,1,99.96223892784327,99.96223892784327
+47,B,Tablet,Europe,Organic,0,0.0,0.0
+48,A,Mobile,Europe,Email,1,85.40170525237176,85.40170525237176
+49,B,Mobile,Europe,Ads,0,0.0,0.0
+50,B,Tablet,North America,Ads,0,0.0,0.0
+51,A,Desktop,North America,Organic,0,0.0,0.0
+52,B,Mobile,Asia,Ads,0,0.0,0.0
+53,A,Mobile,Europe,Ads,0,0.0,0.0
+54,B,Tablet,North America,Ads,0,0.0,0.0
+55,A,Mobile,Europe,Organic,0,0.0,0.0
+56,B,Desktop,Asia,Email,1,184.30100529805003,184.30100529805003
+57,B,Tablet,North America,Ads,0,0.0,0.0
+58,A,Mobile,North America,Organic,0,0.0,0.0
+59,A,Tablet,North America,Organic,1,46.12781429244439,46.12781429244439
+60,A,Mobile,Asia,Email,0,0.0,0.0
+61,A,Mobile,Europe,Ads,0,0.0,0.0
+62,A,Mobile,North America,Ads,0,0.0,0.0
+63,A,Desktop,Asia,Email,0,0.0,0.0
+64,A,Desktop,Europe,Email,0,0.0,0.0
+65,A,Tablet,Asia,Organic,0,0.0,0.0
+66,B,Mobile,Europe,Organic,0,0.0,0.0
+67,B,Mobile,Asia,Email,0,0.0,0.0
+68,A,Desktop,Europe,Ads,0,0.0,0.0
+69,B,Mobile,North America,Organic,0,0.0,0.0
+70,B,Desktop,Europe,Organic,0,0.0,0.0
+71,B,Mobile,Asia,Ads,0,0.0,0.0
+72,B,Tablet,Asia,Organic,0,0.0,0.0
+73,A,Mobile,Europe,Ads,0,0.0,0.0
+74,B,Mobile,North America,Ads,1,165.86326730042137,165.86326730042137
+75,A,Desktop,North America,Ads,0,0.0,0.0
+76,B,Mobile,Europe,Email,0,0.0,0.0
+77,B,Mobile,Europe,Email,0,0.0,0.0
+78,B,Desktop,Asia,Email,0,0.0,0.0
+79,A,Tablet,North America,Ads,0,0.0,0.0
+80,B,Tablet,Europe,Ads,0,0.0,0.0
+81,A,Desktop,North America,Email,0,0.0,0.0
+82,B,Desktop,Europe,Organic,0,0.0,0.0
+83,A,Desktop,Europe,Ads,0,0.0,0.0
+84,B,Desktop,North America,Organic,1,57.34179479269223,57.34179479269223
+85,A,Desktop,Europe,Organic,0,0.0,0.0
+86,A,Tablet,Europe,Ads,0,0.0,0.0
+87,B,Tablet,Asia,Ads,0,0.0,0.0
+88,A,Desktop,Europe,Organic,0,0.0,0.0
+89,B,Mobile,Europe,Organic,0,0.0,0.0
+90,B,Desktop,Europe,Email,0,0.0,0.0
+91,B,Mobile,Asia,Email,0,0.0,0.0
+92,B,Desktop,North America,Ads,0,0.0,0.0
+93,B,Desktop,Asia,Email,0,0.0,0.0
+94,B,Tablet,Asia,Email,0,0.0,0.0
+95,B,Mobile,North America,Email,0,0.0,0.0
+96,B,Mobile,Asia,Email,0,0.0,0.0
+97,B,Tablet,North America,Organic,0,0.0,0.0
+98,B,Tablet,Asia,Ads,0,0.0,0.0
+99,B,Tablet,North America,Email,0,0.0,0.0
+100,A,Tablet,Europe,Organic,0,0.0,0.0
+101,A,Mobile,Asia,Organic,0,0.0,0.0
+102,B,Mobile,Asia,Organic,0,0.0,0.0
+103,B,Desktop,Asia,Email,0,0.0,0.0
+104,B,Desktop,Asia,Email,0,0.0,0.0
+105,B,Tablet,Europe,Ads,0,0.0,0.0
+106,B,Tablet,Asia,Email,0,0.0,0.0
+107,B,Tablet,Europe,Email,0,0.0,0.0
+108,B,Desktop,Europe,Organic,0,0.0,0.0
+109,B,Desktop,Europe,Ads,0,0.0,0.0
+110,A,Desktop,Europe,Email,0,0.0,0.0
+111,B,Desktop,North America,Email,0,0.0,0.0
+112,A,Desktop,North America,Organic,1,85.14091802454293,85.14091802454293
+113,B,Desktop,Asia,Organic,0,0.0,0.0
+114,B,Desktop,North America,Email,0,0.0,0.0
+115,A,Tablet,North America,Ads,0,0.0,0.0
+116,B,Tablet,Asia,Ads,1,25.582033869126363,25.582033869126363
+117,A,Tablet,Asia,Organic,0,0.0,0.0
+118,B,Tablet,Asia,Organic,0,0.0,0.0
+119,B,Desktop,North America,Email,0,0.0,0.0
+120,A,Mobile,North America,Organic,0,0.0,0.0
+121,B,Desktop,Asia,Email,0,0.0,0.0
+122,A,Mobile,Europe,Ads,0,0.0,0.0
+123,B,Tablet,Asia,Ads,0,0.0,0.0
+124,A,Desktop,Europe,Email,0,0.0,0.0
+125,A,Tablet,Europe,Organic,0,0.0,0.0
+126,B,Desktop,Asia,Ads,1,88.40235597660873,88.40235597660873
+127,B,Tablet,Asia,Organic,0,0.0,0.0
+128,A,Mobile,Asia,Ads,0,0.0,0.0
+129,B,Mobile,North America,Email,0,0.0,0.0
+130,B,Mobile,Europe,Email,1,91.96256784588286,91.96256784588286
+131,B,Desktop,North America,Email,0,0.0,0.0
+132,A,Mobile,North America,Ads,1,264.9707236576982,264.9707236576982
+133,A,Desktop,Asia,Organic,0,0.0,0.0
+134,A,Mobile,North America,Organic,0,0.0,0.0
+135,A,Mobile,Asia,Organic,0,0.0,0.0
+136,A,Desktop,Europe,Ads,0,0.0,0.0
+137,A,Desktop,Asia,Ads,0,0.0,0.0
+138,A,Mobile,North America,Ads,1,45.15419778444502,45.15419778444502
+139,A,Desktop,North America,Ads,1,44.47013986757097,44.47013986757097
+140,A,Mobile,Asia,Ads,0,0.0,0.0
+141,B,Desktop,Asia,Organic,0,0.0,0.0
+142,A,Tablet,North America,Ads,1,101.72399723147474,101.72399723147474
+143,B,Tablet,Europe,Ads,0,0.0,0.0
+144,B,Tablet,Europe,Organic,0,0.0,0.0
+145,B,Tablet,Asia,Ads,0,0.0,0.0
+146,A,Tablet,Europe,Organic,0,0.0,0.0
+147,A,Mobile,North America,Organic,1,45.915362711769596,45.915362711769596
+148,A,Tablet,Asia,Email,0,0.0,0.0
+149,A,Tablet,North America,Email,0,0.0,0.0
+150,B,Tablet,North America,Email,0,0.0,0.0
+151,A,Tablet,Europe,Email,0,0.0,0.0
+152,A,Desktop,Asia,Ads,0,0.0,0.0
+153,A,Mobile,Asia,Email,0,0.0,0.0
+154,A,Tablet,Europe,Organic,0,0.0,0.0
+155,A,Tablet,North America,Ads,0,0.0,0.0
+156,B,Tablet,North America,Email,0,0.0,0.0
+157,A,Mobile,North America,Organic,1,92.2110193769865,92.2110193769865
+158,B,Desktop,North America,Ads,0,0.0,0.0
+159,A,Mobile,Asia,Ads,0,0.0,0.0
+160,B,Desktop,Asia,Email,0,0.0,0.0
+161,A,Tablet,Europe,Ads,1,53.43131853463853,53.43131853463853
+162,A,Tablet,Europe,Organic,0,0.0,0.0
+163,B,Mobile,Asia,Ads,0,0.0,0.0
+164,B,Mobile,Asia,Organic,0,0.0,0.0
+165,B,Desktop,North America,Ads,1,18.31325907585915,18.31325907585915
+166,A,Desktop,North America,Email,0,0.0,0.0
+167,B,Mobile,Europe,Organic,0,0.0,0.0
+168,A,Desktop,Asia,Ads,0,0.0,0.0
+169,A,Mobile,Europe,Ads,0,0.0,0.0
+170,B,Desktop,Asia,Ads,0,0.0,0.0
+171,B,Mobile,North America,Organic,1,112.6558790078132,112.6558790078132
+172,A,Mobile,Europe,Organic,0,0.0,0.0
+173,A,Mobile,Europe,Organic,0,0.0,0.0
+174,B,Desktop,Asia,Email,0,0.0,0.0
+175,B,Desktop,North America,Email,0,0.0,0.0
+176,B,Desktop,Europe,Organic,0,0.0,0.0
+177,A,Mobile,North America,Ads,0,0.0,0.0
+178,A,Desktop,Europe,Email,0,0.0,0.0
+179,A,Desktop,North America,Organic,0,0.0,0.0
+180,A,Mobile,Asia,Ads,0,0.0,0.0
+181,A,Tablet,Europe,Email,0,0.0,0.0
+182,A,Mobile,Europe,Ads,0,0.0,0.0
+183,B,Desktop,North America,Ads,0,0.0,0.0
+184,A,Mobile,North America,Ads,1,47.43639567820239,47.43639567820239
+185,A,Tablet,Europe,Ads,0,0.0,0.0
+186,A,Mobile,Asia,Email,0,0.0,0.0
+187,B,Desktop,North America,Email,1,28.4461904087594,28.4461904087594
+188,A,Tablet,North America,Email,0,0.0,0.0
+189,A,Desktop,North America,Organic,0,0.0,0.0
+190,B,Tablet,Europe,Email,0,0.0,0.0
+191,A,Tablet,Europe,Ads,0,0.0,0.0
+192,A,Mobile,Europe,Email,0,0.0,0.0
+193,A,Mobile,Europe,Ads,0,0.0,0.0
+194,A,Desktop,Asia,Organic,0,0.0,0.0
+195,A,Mobile,Asia,Ads,0,0.0,0.0
+196,B,Mobile,Europe,Ads,0,0.0,0.0
+197,B,Tablet,Asia,Ads,0,0.0,0.0
+198,B,Mobile,North America,Organic,0,0.0,0.0
+199,A,Tablet,North America,Email,0,0.0,0.0
+200,A,Tablet,North America,Email,0,0.0,0.0
+201,A,Tablet,Europe,Organic,1,68.68514741343861,68.68514741343861
+202,B,Desktop,North America,Ads,0,0.0,0.0
+203,A,Desktop,Asia,Email,0,0.0,0.0
+204,A,Desktop,Europe,Organic,1,76.7552223545921,76.7552223545921
+205,B,Tablet,Asia,Email,0,0.0,0.0
+206,A,Desktop,North America,Organic,0,0.0,0.0
+207,B,Desktop,North America,Ads,0,0.0,0.0
+208,B,Mobile,North America,Email,1,177.51759924889825,177.51759924889825
+209,B,Desktop,Europe,Organic,0,0.0,0.0
+210,A,Desktop,Asia,Email,0,0.0,0.0
+211,A,Tablet,Europe,Email,0,0.0,0.0
+212,A,Tablet,Europe,Email,0,0.0,0.0
+213,A,Tablet,North America,Email,0,0.0,0.0
+214,A,Tablet,Europe,Organic,0,0.0,0.0
+215,A,Tablet,Europe,Ads,0,0.0,0.0
+216,A,Tablet,North America,Organic,0,0.0,0.0
+217,B,Desktop,Europe,Organic,0,0.0,0.0
+218,A,Tablet,North America,Organic,0,0.0,0.0
+219,B,Tablet,North America,Ads,1,230.57937504179432,230.57937504179432
+220,A,Mobile,North America,Email,0,0.0,0.0
+221,A,Desktop,North America,Email,0,0.0,0.0
+222,A,Desktop,Europe,Email,0,0.0,0.0
+223,B,Desktop,North America,Ads,0,0.0,0.0
+224,B,Tablet,North America,Email,0,0.0,0.0
+225,B,Tablet,Europe,Ads,0,0.0,0.0
+226,B,Tablet,Europe,Email,0,0.0,0.0
+227,A,Mobile,Asia,Email,0,0.0,0.0
+228,B,Tablet,Europe,Organic,0,0.0,0.0
+229,A,Mobile,Europe,Ads,0,0.0,0.0
+230,A,Desktop,Asia,Organic,0,0.0,0.0
+231,B,Tablet,Europe,Organic,0,0.0,0.0
+232,B,Mobile,Europe,Organic,0,0.0,0.0
+233,B,Mobile,Europe,Ads,0,0.0,0.0
+234,B,Tablet,Europe,Ads,0,0.0,0.0
+235,B,Desktop,Asia,Email,1,78.38438822124066,78.38438822124066
+236,B,Desktop,Europe,Organic,0,0.0,0.0
+237,B,Desktop,Europe,Email,0,0.0,0.0
+238,B,Mobile,Asia,Organic,0,0.0,0.0
+239,A,Mobile,North America,Ads,0,0.0,0.0
+240,B,Mobile,Asia,Ads,0,0.0,0.0
+241,B,Mobile,North America,Ads,0,0.0,0.0
+242,A,Desktop,Asia,Organic,0,0.0,0.0
+243,B,Tablet,Asia,Ads,1,92.93282390763002,92.93282390763002
+244,A,Mobile,Europe,Organic,0,0.0,0.0
+245,A,Mobile,North America,Email,1,117.32598731327333,117.32598731327333
+246,B,Desktop,Europe,Organic,0,0.0,0.0
+247,A,Tablet,North America,Email,0,0.0,0.0
+248,A,Tablet,Asia,Organic,0,0.0,0.0
+249,A,Desktop,Asia,Email,0,0.0,0.0
+250,A,Desktop,North America,Ads,0,0.0,0.0
+251,B,Tablet,Europe,Email,1,15.03114685041055,15.03114685041055
+252,A,Mobile,Europe,Ads,0,0.0,0.0
+253,B,Tablet,Europe,Ads,0,0.0,0.0
+254,A,Desktop,Europe,Email,0,0.0,0.0
+255,A,Mobile,Asia,Organic,0,0.0,0.0
+256,A,Mobile,Asia,Organic,0,0.0,0.0
+257,A,Desktop,Asia,Organic,0,0.0,0.0
+258,B,Desktop,Asia,Organic,0,0.0,0.0
+259,B,Desktop,Asia,Organic,0,0.0,0.0
+260,A,Tablet,Europe,Ads,0,0.0,0.0
+261,A,Tablet,Europe,Organic,1,103.01209368931659,103.01209368931659
+262,B,Mobile,Europe,Ads,0,0.0,0.0
+263,A,Desktop,Europe,Ads,0,0.0,0.0
+264,A,Mobile,Asia,Ads,0,0.0,0.0
+265,A,Mobile,Asia,Email,1,25.821884216761216,25.821884216761216
+266,B,Mobile,Asia,Email,0,0.0,0.0
+267,B,Mobile,North America,Ads,1,109.57127640589397,109.57127640589397
+268,B,Desktop,Europe,Email,0,0.0,0.0
+269,A,Mobile,Europe,Organic,0,0.0,0.0
+270,A,Desktop,Asia,Organic,0,0.0,0.0
+271,B,Desktop,Europe,Ads,1,88.53263412126641,88.53263412126641
+272,B,Tablet,Europe,Organic,0,0.0,0.0
+273,B,Desktop,Asia,Ads,0,0.0,0.0
+274,B,Tablet,North America,Ads,0,0.0,0.0
+275,A,Desktop,North America,Organic,0,0.0,0.0
+276,B,Desktop,North America,Email,0,0.0,0.0
+277,A,Desktop,Asia,Organic,0,0.0,0.0
+278,B,Tablet,Europe,Organic,1,196.4615344982411,196.4615344982411
+279,A,Tablet,Asia,Ads,0,0.0,0.0
+280,B,Mobile,Asia,Ads,0,0.0,0.0
+281,B,Tablet,Europe,Ads,0,0.0,0.0
+282,B,Tablet,North America,Ads,0,0.0,0.0
+283,B,Tablet,North America,Email,0,0.0,0.0
+284,A,Tablet,Asia,Email,0,0.0,0.0
+285,B,Mobile,North America,Email,0,0.0,0.0
+286,A,Tablet,Asia,Ads,1,120.54223736189404,120.54223736189404
+287,A,Desktop,Asia,Ads,1,69.74250310784828,69.74250310784828
+288,A,Desktop,Europe,Ads,0,0.0,0.0
+289,A,Tablet,Europe,Email,1,89.03748533443768,89.03748533443768
+290,B,Tablet,Europe,Ads,0,0.0,0.0
+291,A,Desktop,Asia,Organic,0,0.0,0.0
+292,A,Desktop,Europe,Organic,0,0.0,0.0
+293,A,Mobile,North America,Ads,0,0.0,0.0
+294,B,Desktop,North America,Organic,0,0.0,0.0
+295,B,Desktop,Asia,Organic,1,95.36151095103185,95.36151095103185
+296,B,Tablet,Asia,Email,0,0.0,0.0
+297,B,Desktop,Europe,Ads,1,158.37159375212823,158.37159375212823
+298,A,Mobile,Asia,Ads,0,0.0,0.0
+299,A,Desktop,Asia,Email,0,0.0,0.0
+300,B,Tablet,North America,Organic,1,79.17552244489407,79.17552244489407
+301,A,Tablet,North America,Organic,0,0.0,0.0
+302,A,Desktop,Europe,Ads,0,0.0,0.0
+303,A,Tablet,Asia,Organic,0,0.0,0.0
+304,B,Mobile,Asia,Email,0,0.0,0.0
+305,B,Mobile,North America,Email,0,0.0,0.0
+306,A,Desktop,Asia,Ads,0,0.0,0.0
+307,B,Desktop,North America,Email,0,0.0,0.0
+308,B,Desktop,Europe,Email,1,96.17830645746805,96.17830645746805
+309,B,Tablet,North America,Ads,0,0.0,0.0
+310,B,Mobile,Asia,Email,0,0.0,0.0
+311,B,Mobile,Europe,Email,0,0.0,0.0
+312,A,Tablet,North America,Email,1,78.2402640863608,78.2402640863608
+313,B,Mobile,North America,Organic,0,0.0,0.0
+314,A,Desktop,Europe,Ads,0,0.0,0.0
+315,A,Desktop,Europe,Ads,0,0.0,0.0
+316,B,Desktop,North America,Ads,0,0.0,0.0
+317,A,Mobile,Asia,Organic,0,0.0,0.0
+318,A,Desktop,North America,Organic,0,0.0,0.0
+319,A,Tablet,Europe,Ads,0,0.0,0.0
+320,B,Tablet,North America,Organic,0,0.0,0.0
+321,B,Mobile,Europe,Ads,0,0.0,0.0
+322,A,Tablet,Europe,Organic,1,246.94911339817622,246.94911339817622
+323,B,Tablet,Asia,Email,1,175.29057016934743,175.29057016934743
+324,B,Mobile,Europe,Email,0,0.0,0.0
+325,B,Desktop,Europe,Ads,1,92.39852160572507,92.39852160572507
+326,B,Desktop,Asia,Organic,0,0.0,0.0
+327,A,Desktop,Europe,Organic,0,0.0,0.0
+328,A,Mobile,Asia,Email,0,0.0,0.0
+329,B,Tablet,Asia,Email,0,0.0,0.0
+330,B,Desktop,Europe,Organic,0,0.0,0.0
+331,A,Desktop,Europe,Organic,1,153.15533535869207,153.15533535869207
+332,A,Mobile,North America,Organic,0,0.0,0.0
+333,B,Desktop,Asia,Organic,1,119.6890164216607,119.6890164216607
+334,A,Mobile,North America,Organic,0,0.0,0.0
+335,B,Tablet,Europe,Organic,0,0.0,0.0
+336,B,Mobile,North America,Ads,0,0.0,0.0
+337,A,Mobile,Asia,Organic,0,0.0,0.0
+338,A,Mobile,North America,Email,0,0.0,0.0
+339,B,Mobile,Asia,Ads,0,0.0,0.0
+340,B,Tablet,Europe,Organic,0,0.0,0.0
+341,A,Tablet,Europe,Email,0,0.0,0.0
+342,B,Desktop,Asia,Ads,0,0.0,0.0
+343,A,Tablet,Europe,Email,0,0.0,0.0
+344,B,Tablet,Europe,Organic,0,0.0,0.0
+345,A,Desktop,Europe,Organic,0,0.0,0.0
+346,A,Tablet,Europe,Organic,0,0.0,0.0
+347,A,Mobile,Asia,Organic,0,0.0,0.0
+348,B,Mobile,North America,Ads,1,40.07708666446484,40.07708666446484
+349,B,Desktop,North America,Ads,0,0.0,0.0
+350,A,Desktop,Europe,Email,1,222.57988072984358,222.57988072984358
+351,B,Desktop,North America,Organic,0,0.0,0.0
+352,A,Mobile,North America,Email,1,42.885440455552036,42.885440455552036
+353,A,Tablet,Europe,Ads,1,67.57722940728027,67.57722940728027
+354,B,Mobile,Europe,Organic,0,0.0,0.0
+355,B,Desktop,North America,Organic,0,0.0,0.0
+356,A,Tablet,Asia,Ads,0,0.0,0.0
+357,B,Tablet,Europe,Ads,0,0.0,0.0
+358,B,Mobile,Asia,Ads,0,0.0,0.0
+359,A,Desktop,North America,Ads,0,0.0,0.0
+360,A,Mobile,Europe,Ads,0,0.0,0.0
+361,B,Tablet,Asia,Organic,0,0.0,0.0
+362,A,Mobile,Europe,Ads,0,0.0,0.0
+363,A,Mobile,North America,Organic,0,0.0,0.0
+364,B,Desktop,Asia,Organic,1,35.26577176768435,35.26577176768435
+365,A,Desktop,North America,Ads,0,0.0,0.0
+366,A,Tablet,North America,Ads,0,0.0,0.0
+367,B,Mobile,Europe,Organic,0,0.0,0.0
+368,B,Mobile,Asia,Ads,0,0.0,0.0
+369,A,Mobile,North America,Ads,1,55.57435168542823,55.57435168542823
+370,A,Tablet,North America,Ads,0,0.0,0.0
+371,B,Tablet,Asia,Email,1,19.829599341881735,19.829599341881735
+372,B,Desktop,North America,Organic,0,0.0,0.0
+373,B,Desktop,North America,Email,0,0.0,0.0
+374,B,Desktop,Asia,Ads,0,0.0,0.0
+375,A,Mobile,Asia,Email,0,0.0,0.0
+376,B,Mobile,Asia,Ads,1,43.05510909922236,43.05510909922236
+377,B,Desktop,Asia,Email,0,0.0,0.0
+378,A,Mobile,Europe,Ads,0,0.0,0.0
+379,B,Desktop,Asia,Email,0,0.0,0.0
+380,A,Tablet,Europe,Email,0,0.0,0.0
+381,B,Desktop,Europe,Email,0,0.0,0.0
+382,B,Tablet,Europe,Organic,0,0.0,0.0
+383,B,Mobile,North America,Email,0,0.0,0.0
+384,A,Desktop,Europe,Organic,0,0.0,0.0
+385,A,Mobile,Europe,Ads,0,0.0,0.0
+386,B,Tablet,North America,Email,0,0.0,0.0
+387,A,Tablet,North America,Ads,0,0.0,0.0
+388,A,Tablet,North America,Ads,1,39.272857854711006,39.272857854711006
+389,A,Mobile,Asia,Email,0,0.0,0.0
+390,A,Mobile,North America,Organic,0,0.0,0.0
+391,A,Mobile,North America,Email,0,0.0,0.0
+392,A,Mobile,Europe,Ads,0,0.0,0.0
+393,B,Tablet,North America,Ads,1,54.31431016152517,54.31431016152517
+394,B,Tablet,Asia,Email,0,0.0,0.0
+395,A,Desktop,North America,Organic,0,0.0,0.0
+396,B,Desktop,Asia,Organic,0,0.0,0.0
+397,B,Mobile,North America,Ads,0,0.0,0.0
+398,B,Tablet,North America,Ads,0,0.0,0.0
+399,B,Tablet,North America,Organic,0,0.0,0.0
+400,A,Tablet,North America,Email,0,0.0,0.0
+401,B,Desktop,Asia,Ads,0,0.0,0.0
+402,B,Desktop,Asia,Organic,0,0.0,0.0
+403,A,Tablet,Europe,Ads,0,0.0,0.0
+404,A,Tablet,Asia,Email,0,0.0,0.0
+405,B,Tablet,North America,Organic,0,0.0,0.0
+406,B,Desktop,Europe,Ads,0,0.0,0.0
+407,B,Tablet,Europe,Email,0,0.0,0.0
+408,B,Tablet,Europe,Ads,0,0.0,0.0
+409,B,Mobile,North America,Email,0,0.0,0.0
+410,B,Mobile,Asia,Email,0,0.0,0.0
+411,A,Desktop,North America,Organic,0,0.0,0.0
+412,B,Tablet,Europe,Email,0,0.0,0.0
+413,B,Tablet,North America,Ads,0,0.0,0.0
+414,A,Mobile,North America,Email,0,0.0,0.0
+415,A,Desktop,Asia,Email,0,0.0,0.0
+416,A,Mobile,Asia,Organic,1,156.72184261743308,156.72184261743308
+417,A,Mobile,Europe,Email,0,0.0,0.0
+418,B,Mobile,North America,Email,0,0.0,0.0
+419,B,Mobile,North America,Ads,0,0.0,0.0
+420,B,Tablet,Asia,Organic,0,0.0,0.0
+421,B,Tablet,North America,Organic,0,0.0,0.0
+422,B,Mobile,North America,Organic,0,0.0,0.0
+423,B,Desktop,North America,Email,0,0.0,0.0
+424,A,Desktop,Asia,Organic,0,0.0,0.0
+425,B,Desktop,Europe,Email,0,0.0,0.0
+426,A,Desktop,Europe,Email,0,0.0,0.0
+427,A,Mobile,North America,Ads,0,0.0,0.0
+428,B,Tablet,Europe,Ads,1,239.1190852105553,239.1190852105553
+429,A,Desktop,Asia,Ads,0,0.0,0.0
+430,B,Mobile,Asia,Ads,0,0.0,0.0
+431,A,Desktop,Europe,Ads,0,0.0,0.0
+432,B,Desktop,Europe,Email,0,0.0,0.0
+433,A,Mobile,North America,Email,0,0.0,0.0
+434,B,Tablet,Europe,Organic,0,0.0,0.0
+435,B,Tablet,North America,Email,0,0.0,0.0
+436,B,Mobile,North America,Email,0,0.0,0.0
+437,B,Tablet,Asia,Ads,1,32.529796393750175,32.529796393750175
+438,B,Mobile,Asia,Email,0,0.0,0.0
+439,A,Mobile,Asia,Ads,0,0.0,0.0
+440,A,Mobile,Asia,Organic,0,0.0,0.0
+441,A,Tablet,Europe,Organic,0,0.0,0.0
+442,B,Mobile,Asia,Email,0,0.0,0.0
+443,A,Desktop,Europe,Organic,1,52.38054954064323,52.38054954064323
+444,B,Tablet,Asia,Email,0,0.0,0.0
+445,B,Tablet,Europe,Organic,0,0.0,0.0
+446,A,Tablet,North America,Ads,0,0.0,0.0
+447,A,Tablet,Europe,Ads,0,0.0,0.0
+448,B,Desktop,Europe,Ads,0,0.0,0.0
+449,A,Tablet,Asia,Ads,0,0.0,0.0
+450,B,Tablet,Europe,Email,0,0.0,0.0
+451,B,Mobile,North America,Organic,0,0.0,0.0
+452,B,Tablet,North America,Email,0,0.0,0.0
+453,B,Desktop,Asia,Ads,0,0.0,0.0
+454,B,Desktop,North America,Email,0,0.0,0.0
+455,A,Desktop,Europe,Organic,0,0.0,0.0
+456,A,Desktop,North America,Email,0,0.0,0.0
+457,B,Tablet,Asia,Organic,0,0.0,0.0
+458,B,Tablet,Europe,Email,0,0.0,0.0
+459,A,Desktop,Asia,Organic,1,292.3338165276323,292.3338165276323
+460,A,Desktop,Europe,Organic,0,0.0,0.0
+461,B,Tablet,North America,Ads,0,0.0,0.0
+462,A,Desktop,Asia,Organic,0,0.0,0.0
+463,B,Mobile,Asia,Ads,0,0.0,0.0
+464,A,Desktop,Europe,Ads,0,0.0,0.0
+465,B,Desktop,Asia,Ads,0,0.0,0.0
+466,A,Mobile,Europe,Email,1,220.0371550390439,220.0371550390439
+467,B,Mobile,Europe,Email,0,0.0,0.0
+468,A,Tablet,Europe,Email,0,0.0,0.0
+469,A,Tablet,Europe,Email,0,0.0,0.0
+470,B,Mobile,North America,Organic,0,0.0,0.0
+471,A,Mobile,Europe,Organic,0,0.0,0.0
+472,B,Tablet,Asia,Email,0,0.0,0.0
+473,A,Desktop,North America,Organic,0,0.0,0.0
+474,B,Mobile,Asia,Organic,1,73.46560297091052,73.46560297091052
+475,A,Tablet,North America,Ads,0,0.0,0.0
+476,B,Desktop,Europe,Ads,0,0.0,0.0
+477,A,Mobile,North America,Ads,0,0.0,0.0
+478,B,Desktop,North America,Ads,0,0.0,0.0
+479,A,Tablet,Asia,Organic,0,0.0,0.0
+480,B,Mobile,Asia,Email,0,0.0,0.0
+481,B,Desktop,Europe,Organic,0,0.0,0.0
+482,B,Mobile,North America,Organic,0,0.0,0.0
+483,A,Desktop,North America,Organic,0,0.0,0.0
+484,B,Tablet,North America,Ads,0,0.0,0.0
+485,A,Tablet,Europe,Ads,0,0.0,0.0
+486,B,Mobile,Europe,Ads,0,0.0,0.0
+487,A,Desktop,Europe,Email,0,0.0,0.0
+488,B,Mobile,Europe,Organic,0,0.0,0.0
+489,A,Mobile,Europe,Email,0,0.0,0.0
+490,A,Desktop,Asia,Ads,0,0.0,0.0
+491,B,Desktop,North America,Email,1,49.01469153291951,49.01469153291951
+492,A,Desktop,North America,Organic,0,0.0,0.0
+493,A,Tablet,North America,Organic,0,0.0,0.0
+494,B,Mobile,North America,Ads,0,0.0,0.0
+495,A,Mobile,North America,Ads,0,0.0,0.0
+496,A,Tablet,North America,Email,0,0.0,0.0
+497,A,Desktop,North America,Ads,0,0.0,0.0
+498,B,Tablet,North America,Ads,0,0.0,0.0
+499,A,Tablet,Asia,Organic,0,0.0,0.0
+500,B,Tablet,North America,Ads,0,0.0,0.0
+501,A,Mobile,Asia,Ads,0,0.0,0.0
+502,A,Tablet,Europe,Organic,0,0.0,0.0
+503,A,Mobile,North America,Organic,0,0.0,0.0
+504,B,Mobile,Europe,Email,0,0.0,0.0
+505,A,Mobile,Europe,Ads,0,0.0,0.0
+506,A,Desktop,Europe,Organic,0,0.0,0.0
+507,B,Mobile,Asia,Email,0,0.0,0.0
+508,A,Mobile,Europe,Email,1,85.5452194788085,85.5452194788085
+509,B,Desktop,Europe,Ads,0,0.0,0.0
+510,B,Mobile,Europe,Ads,1,219.29044788140823,219.29044788140823
+511,A,Tablet,North America,Email,0,0.0,0.0
+512,B,Tablet,North America,Organic,1,123.20434292187082,123.20434292187082
+513,A,Mobile,Asia,Email,0,0.0,0.0
+514,B,Desktop,Asia,Ads,0,0.0,0.0
+515,B,Tablet,North America,Organic,0,0.0,0.0
+516,A,Desktop,Asia,Organic,0,0.0,0.0
+517,B,Desktop,North America,Email,0,0.0,0.0
+518,B,Tablet,Europe,Ads,0,0.0,0.0
+519,B,Desktop,Europe,Email,0,0.0,0.0
+520,B,Tablet,Asia,Email,0,0.0,0.0
+521,B,Desktop,North America,Email,1,70.59554718756588,70.59554718756588
+522,A,Tablet,North America,Organic,0,0.0,0.0
+523,B,Mobile,Asia,Organic,1,32.68080358269172,32.68080358269172
+524,A,Tablet,North America,Ads,0,0.0,0.0
+525,B,Tablet,Europe,Ads,0,0.0,0.0
+526,A,Tablet,Asia,Email,0,0.0,0.0
+527,A,Tablet,Asia,Email,0,0.0,0.0
+528,B,Desktop,North America,Email,0,0.0,0.0
+529,B,Mobile,Asia,Ads,0,0.0,0.0
+530,B,Tablet,North America,Organic,0,0.0,0.0
+531,A,Desktop,North America,Organic,0,0.0,0.0
+532,B,Mobile,North America,Email,1,191.8932699637586,191.8932699637586
+533,A,Mobile,North America,Email,0,0.0,0.0
+534,A,Mobile,North America,Email,0,0.0,0.0
+535,A,Mobile,Asia,Email,0,0.0,0.0
+536,B,Tablet,Europe,Ads,0,0.0,0.0
+537,B,Tablet,Europe,Organic,0,0.0,0.0
+538,A,Desktop,Asia,Email,0,0.0,0.0
+539,A,Desktop,Asia,Ads,0,0.0,0.0
+540,B,Desktop,Europe,Email,0,0.0,0.0
+541,A,Mobile,Europe,Email,0,0.0,0.0
+542,B,Mobile,Europe,Organic,0,0.0,0.0
+543,A,Tablet,Europe,Email,0,0.0,0.0
+544,B,Mobile,Europe,Organic,1,156.03044252985265,156.03044252985265
+545,A,Mobile,North America,Organic,0,0.0,0.0
+546,B,Mobile,Asia,Organic,0,0.0,0.0
+547,A,Desktop,North America,Ads,0,0.0,0.0
+548,B,Desktop,Europe,Ads,0,0.0,0.0
+549,B,Tablet,Europe,Organic,0,0.0,0.0
+550,A,Mobile,Europe,Email,0,0.0,0.0
+551,A,Mobile,North America,Organic,1,39.96869674714414,39.96869674714414
+552,B,Tablet,North America,Email,0,0.0,0.0
+553,A,Mobile,Europe,Organic,1,243.23903291829487,243.23903291829487
+554,B,Mobile,North America,Email,1,63.67349357182983,63.67349357182983
+555,A,Desktop,North America,Ads,0,0.0,0.0
+556,B,Tablet,Europe,Email,0,0.0,0.0
+557,B,Tablet,North America,Organic,1,52.72367054416257,52.72367054416257
+558,B,Tablet,Asia,Ads,0,0.0,0.0
+559,B,Tablet,Asia,Email,0,0.0,0.0
+560,B,Desktop,Asia,Email,1,118.40174491333566,118.40174491333566
+561,B,Desktop,Asia,Email,0,0.0,0.0
+562,A,Mobile,Europe,Email,0,0.0,0.0
+563,A,Mobile,Europe,Email,0,0.0,0.0
+564,A,Mobile,Europe,Ads,0,0.0,0.0
+565,B,Mobile,Asia,Ads,0,0.0,0.0
+566,B,Desktop,Asia,Ads,0,0.0,0.0
+567,B,Tablet,North America,Ads,0,0.0,0.0
+568,B,Desktop,North America,Organic,0,0.0,0.0
+569,A,Mobile,Asia,Ads,0,0.0,0.0
+570,A,Desktop,Asia,Email,0,0.0,0.0
+571,B,Tablet,Asia,Email,0,0.0,0.0
+572,A,Tablet,Asia,Ads,0,0.0,0.0
+573,A,Desktop,North America,Email,0,0.0,0.0
+574,B,Desktop,Asia,Ads,0,0.0,0.0
+575,A,Desktop,North America,Email,0,0.0,0.0
+576,B,Mobile,Asia,Organic,1,249.59780753308576,249.59780753308576
+577,A,Desktop,Asia,Organic,0,0.0,0.0
+578,B,Desktop,Asia,Ads,0,0.0,0.0
+579,B,Desktop,North America,Ads,0,0.0,0.0
+580,B,Tablet,North America,Ads,0,0.0,0.0
+581,B,Tablet,Europe,Email,0,0.0,0.0
+582,A,Mobile,Asia,Ads,0,0.0,0.0
+583,B,Mobile,Europe,Organic,0,0.0,0.0
+584,B,Tablet,Europe,Email,0,0.0,0.0
+585,B,Tablet,North America,Ads,0,0.0,0.0
+586,A,Tablet,North America,Email,0,0.0,0.0
+587,B,Desktop,Europe,Email,0,0.0,0.0
+588,A,Desktop,Asia,Ads,0,0.0,0.0
+589,B,Tablet,North America,Email,0,0.0,0.0
+590,A,Desktop,Asia,Organic,0,0.0,0.0
+591,A,Desktop,Asia,Organic,0,0.0,0.0
+592,B,Mobile,Europe,Email,0,0.0,0.0
+593,A,Tablet,Europe,Ads,0,0.0,0.0
+594,B,Tablet,Europe,Email,0,0.0,0.0
+595,B,Desktop,Europe,Organic,0,0.0,0.0
+596,B,Tablet,North America,Email,0,0.0,0.0
+597,A,Mobile,North America,Email,0,0.0,0.0
+598,A,Mobile,Europe,Organic,1,42.28643333924392,42.28643333924392
+599,B,Mobile,North America,Email,0,0.0,0.0
+600,B,Tablet,Europe,Email,0,0.0,0.0
+601,A,Tablet,Asia,Ads,0,0.0,0.0
+602,B,Tablet,Asia,Ads,0,0.0,0.0
+603,B,Tablet,Asia,Organic,0,0.0,0.0
+604,B,Tablet,Europe,Organic,0,0.0,0.0
+605,A,Mobile,Asia,Organic,0,0.0,0.0
+606,A,Desktop,North America,Ads,1,116.72808863292714,116.72808863292714
+607,A,Mobile,Asia,Organic,0,0.0,0.0
+608,B,Tablet,Asia,Organic,1,92.57739800046203,92.57739800046203
+609,B,Mobile,Asia,Organic,0,0.0,0.0
+610,B,Tablet,North America,Ads,0,0.0,0.0
+611,A,Tablet,Europe,Email,0,0.0,0.0
+612,B,Mobile,North America,Organic,0,0.0,0.0
+613,B,Tablet,Europe,Email,0,0.0,0.0
+614,B,Desktop,Europe,Organic,0,0.0,0.0
+615,B,Tablet,Asia,Email,0,0.0,0.0
+616,A,Desktop,Europe,Ads,0,0.0,0.0
+617,A,Desktop,North America,Ads,0,0.0,0.0
+618,B,Tablet,North America,Organic,1,20.943665682042617,20.943665682042617
+619,A,Mobile,Europe,Email,0,0.0,0.0
+620,A,Desktop,Asia,Ads,0,0.0,0.0
+621,B,Mobile,Asia,Organic,1,174.53037376371543,174.53037376371543
+622,B,Desktop,North America,Organic,0,0.0,0.0
+623,A,Tablet,Asia,Ads,0,0.0,0.0
+624,B,Tablet,Europe,Ads,0,0.0,0.0
+625,A,Desktop,Europe,Organic,1,146.39538649508978,146.39538649508978
+626,B,Tablet,North America,Email,0,0.0,0.0
+627,A,Desktop,Europe,Email,0,0.0,0.0
+628,B,Tablet,North America,Email,0,0.0,0.0
+629,A,Mobile,Europe,Organic,0,0.0,0.0
+630,A,Tablet,North America,Ads,0,0.0,0.0
+631,A,Mobile,Asia,Organic,0,0.0,0.0
+632,B,Tablet,Europe,Ads,0,0.0,0.0
+633,A,Mobile,Europe,Email,0,0.0,0.0
+634,A,Tablet,North America,Email,1,58.30133006215642,58.30133006215642
+635,B,Mobile,North America,Ads,0,0.0,0.0
+636,B,Desktop,Europe,Ads,0,0.0,0.0
+637,A,Desktop,North America,Organic,0,0.0,0.0
+638,A,Mobile,Europe,Email,0,0.0,0.0
+639,B,Tablet,Asia,Organic,1,115.95534546052791,115.95534546052791
+640,B,Mobile,North America,Organic,0,0.0,0.0
+641,B,Tablet,Europe,Organic,0,0.0,0.0
+642,B,Desktop,Asia,Email,0,0.0,0.0
+643,B,Tablet,Asia,Organic,0,0.0,0.0
+644,A,Desktop,Europe,Organic,0,0.0,0.0
+645,B,Tablet,North America,Organic,0,0.0,0.0
+646,A,Tablet,Europe,Organic,0,0.0,0.0
+647,A,Tablet,Asia,Organic,1,67.86500728048901,67.86500728048901
+648,A,Mobile,Europe,Organic,0,0.0,0.0
+649,B,Mobile,North America,Email,0,0.0,0.0
+650,A,Desktop,Asia,Organic,0,0.0,0.0
+651,A,Desktop,Europe,Ads,0,0.0,0.0
+652,B,Mobile,North America,Organic,0,0.0,0.0
+653,A,Desktop,Asia,Organic,0,0.0,0.0
+654,A,Mobile,North America,Email,0,0.0,0.0
+655,B,Tablet,Asia,Email,1,166.3729302720675,166.3729302720675
+656,A,Desktop,Europe,Ads,0,0.0,0.0
+657,A,Desktop,North America,Ads,0,0.0,0.0
+658,A,Mobile,Asia,Email,0,0.0,0.0
+659,B,Desktop,North America,Email,0,0.0,0.0
+660,B,Desktop,North America,Organic,0,0.0,0.0
+661,B,Tablet,Europe,Email,0,0.0,0.0
+662,A,Desktop,North America,Ads,0,0.0,0.0
+663,A,Tablet,Asia,Organic,1,72.50941545871764,72.50941545871764
+664,B,Mobile,Asia,Ads,1,108.9359122026127,108.9359122026127
+665,A,Desktop,Asia,Organic,0,0.0,0.0
+666,A,Tablet,Asia,Email,0,0.0,0.0
+667,B,Mobile,Europe,Ads,0,0.0,0.0
+668,B,Desktop,North America,Organic,1,69.12088050559855,69.12088050559855
+669,A,Mobile,Europe,Organic,0,0.0,0.0
+670,A,Desktop,North America,Email,0,0.0,0.0
+671,A,Mobile,North America,Email,0,0.0,0.0
+672,B,Mobile,North America,Email,0,0.0,0.0
+673,B,Tablet,Europe,Ads,0,0.0,0.0
+674,B,Mobile,North America,Organic,0,0.0,0.0
+675,B,Desktop,Europe,Email,0,0.0,0.0
+676,A,Desktop,Asia,Ads,0,0.0,0.0
+677,B,Tablet,Asia,Ads,0,0.0,0.0
+678,B,Desktop,North America,Ads,0,0.0,0.0
+679,B,Desktop,Europe,Email,0,0.0,0.0
+680,B,Desktop,Asia,Email,0,0.0,0.0
+681,B,Mobile,Europe,Organic,0,0.0,0.0
+682,A,Mobile,Europe,Organic,0,0.0,0.0
+683,A,Desktop,North America,Email,0,0.0,0.0
+684,B,Tablet,Asia,Ads,0,0.0,0.0
+685,A,Mobile,North America,Ads,0,0.0,0.0
+686,B,Tablet,North America,Ads,0,0.0,0.0
+687,B,Desktop,Asia,Organic,0,0.0,0.0
+688,A,Desktop,Asia,Ads,0,0.0,0.0
+689,A,Mobile,Europe,Organic,1,19.53605673006996,19.53605673006996
+690,B,Desktop,Asia,Organic,0,0.0,0.0
+691,B,Mobile,Europe,Ads,0,0.0,0.0
+692,B,Desktop,Europe,Ads,0,0.0,0.0
+693,A,Desktop,Europe,Email,1,62.6343350816283,62.6343350816283
+694,B,Mobile,Asia,Email,0,0.0,0.0
+695,B,Mobile,North America,Ads,0,0.0,0.0
+696,B,Mobile,Europe,Organic,0,0.0,0.0
+697,A,Desktop,North America,Organic,0,0.0,0.0
+698,B,Desktop,North America,Organic,0,0.0,0.0
+699,B,Tablet,Asia,Organic,0,0.0,0.0
+700,A,Mobile,North America,Organic,1,54.83943881132708,54.83943881132708
+701,B,Desktop,North America,Email,0,0.0,0.0
+702,B,Desktop,Asia,Ads,0,0.0,0.0
+703,A,Mobile,Europe,Email,0,0.0,0.0
+704,B,Tablet,North America,Organic,0,0.0,0.0
+705,A,Mobile,Asia,Organic,0,0.0,0.0
+706,A,Tablet,North America,Organic,0,0.0,0.0
+707,B,Desktop,North America,Organic,0,0.0,0.0
+708,B,Tablet,Europe,Ads,0,0.0,0.0
+709,B,Desktop,North America,Organic,0,0.0,0.0
+710,B,Mobile,Asia,Ads,0,0.0,0.0
+711,A,Mobile,North America,Organic,0,0.0,0.0
+712,B,Mobile,Europe,Ads,0,0.0,0.0
+713,A,Tablet,Europe,Email,0,0.0,0.0
+714,B,Desktop,Asia,Organic,0,0.0,0.0
+715,B,Mobile,Europe,Ads,0,0.0,0.0
+716,B,Mobile,North America,Email,1,66.08162722250094,66.08162722250094
+717,A,Desktop,Europe,Organic,0,0.0,0.0
+718,B,Mobile,Asia,Organic,0,0.0,0.0
+719,B,Desktop,Europe,Organic,0,0.0,0.0
+720,B,Desktop,Europe,Ads,0,0.0,0.0
+721,B,Desktop,Europe,Ads,0,0.0,0.0
+722,A,Desktop,Asia,Email,1,48.099320374281355,48.099320374281355
+723,B,Desktop,Europe,Ads,0,0.0,0.0
+724,A,Tablet,Europe,Ads,0,0.0,0.0
+725,A,Mobile,North America,Organic,0,0.0,0.0
+726,A,Tablet,Asia,Organic,0,0.0,0.0
+727,A,Mobile,Europe,Organic,0,0.0,0.0
+728,A,Tablet,Asia,Organic,0,0.0,0.0
+729,A,Desktop,Europe,Organic,0,0.0,0.0
+730,B,Mobile,Europe,Organic,0,0.0,0.0
+731,A,Mobile,Europe,Organic,0,0.0,0.0
+732,A,Tablet,North America,Email,0,0.0,0.0
+733,A,Tablet,North America,Email,0,0.0,0.0
+734,B,Mobile,North America,Email,0,0.0,0.0
+735,B,Tablet,Asia,Email,1,112.81361844167115,112.81361844167115
+736,A,Tablet,Asia,Organic,0,0.0,0.0
+737,B,Tablet,North America,Email,0,0.0,0.0
+738,A,Desktop,Asia,Organic,0,0.0,0.0
+739,A,Desktop,Europe,Email,0,0.0,0.0
+740,B,Tablet,Europe,Ads,0,0.0,0.0
+741,A,Tablet,Europe,Email,0,0.0,0.0
+742,B,Desktop,North America,Email,0,0.0,0.0
+743,B,Desktop,Asia,Organic,1,92.60708841043139,92.60708841043139
+744,A,Mobile,North America,Email,0,0.0,0.0
+745,A,Mobile,Asia,Ads,0,0.0,0.0
+746,B,Desktop,Europe,Organic,0,0.0,0.0
+747,A,Tablet,North America,Organic,0,0.0,0.0
+748,A,Tablet,Asia,Email,0,0.0,0.0
+749,A,Tablet,Asia,Organic,0,0.0,0.0
+750,B,Tablet,Europe,Organic,0,0.0,0.0
+751,B,Mobile,North America,Organic,0,0.0,0.0
+752,A,Desktop,North America,Organic,0,0.0,0.0
+753,B,Tablet,North America,Organic,0,0.0,0.0
+754,B,Mobile,Europe,Organic,0,0.0,0.0
+755,B,Tablet,North America,Ads,0,0.0,0.0
+756,B,Desktop,Europe,Email,1,97.03168578893603,97.03168578893603
+757,B,Mobile,Europe,Ads,0,0.0,0.0
+758,A,Desktop,Europe,Organic,0,0.0,0.0
+759,A,Desktop,Asia,Organic,0,0.0,0.0
+760,A,Mobile,North America,Email,0,0.0,0.0
+761,B,Mobile,North America,Ads,0,0.0,0.0
+762,B,Mobile,Europe,Email,0,0.0,0.0
+763,A,Mobile,Europe,Ads,0,0.0,0.0
+764,B,Mobile,North America,Organic,0,0.0,0.0
+765,A,Mobile,Europe,Email,0,0.0,0.0
+766,A,Mobile,North America,Email,0,0.0,0.0
+767,A,Tablet,Asia,Organic,0,0.0,0.0
+768,B,Desktop,Europe,Email,1,35.082559434244565,35.082559434244565
+769,B,Mobile,North America,Ads,0,0.0,0.0
+770,A,Tablet,Europe,Ads,0,0.0,0.0
+771,A,Tablet,North America,Ads,1,176.8927361816221,176.8927361816221
+772,A,Tablet,North America,Ads,0,0.0,0.0
+773,A,Desktop,Europe,Organic,1,18.331400647659155,18.331400647659155
+774,B,Mobile,Asia,Email,0,0.0,0.0
+775,B,Tablet,North America,Ads,0,0.0,0.0
+776,A,Desktop,North America,Organic,0,0.0,0.0
+777,A,Desktop,North America,Email,0,0.0,0.0
+778,B,Desktop,Asia,Email,0,0.0,0.0
+779,B,Tablet,Asia,Organic,1,259.93660428939,259.93660428939
+780,A,Mobile,Europe,Organic,0,0.0,0.0
+781,A,Tablet,Asia,Ads,0,0.0,0.0
+782,A,Tablet,Europe,Email,0,0.0,0.0
+783,B,Mobile,Europe,Email,0,0.0,0.0
+784,B,Mobile,Asia,Organic,0,0.0,0.0
+785,B,Mobile,Europe,Email,1,64.67768148350247,64.67768148350247
+786,A,Desktop,Asia,Ads,0,0.0,0.0
+787,A,Mobile,Europe,Email,0,0.0,0.0
+788,B,Tablet,Asia,Organic,1,159.066528505185,159.066528505185
+789,B,Mobile,Asia,Organic,0,0.0,0.0
+790,A,Tablet,Europe,Ads,0,0.0,0.0
+791,B,Desktop,North America,Ads,0,0.0,0.0
+792,B,Tablet,Europe,Email,0,0.0,0.0
+793,A,Tablet,Asia,Email,0,0.0,0.0
+794,B,Mobile,North America,Organic,0,0.0,0.0
+795,A,Mobile,Europe,Ads,0,0.0,0.0
+796,A,Tablet,Europe,Ads,0,0.0,0.0
+797,A,Mobile,Europe,Ads,0,0.0,0.0
+798,A,Desktop,North America,Email,0,0.0,0.0
+799,A,Desktop,Asia,Ads,0,0.0,0.0
+800,A,Mobile,Europe,Organic,0,0.0,0.0
+801,A,Desktop,Europe,Organic,0,0.0,0.0
+802,B,Mobile,Europe,Email,0,0.0,0.0
+803,A,Tablet,Europe,Email,0,0.0,0.0
+804,A,Tablet,Europe,Ads,0,0.0,0.0
+805,B,Desktop,Asia,Email,0,0.0,0.0
+806,B,Mobile,Asia,Organic,0,0.0,0.0
+807,B,Mobile,Europe,Ads,0,0.0,0.0
+808,A,Desktop,North America,Organic,0,0.0,0.0
+809,B,Tablet,Asia,Ads,0,0.0,0.0
+810,A,Desktop,North America,Email,0,0.0,0.0
+811,A,Tablet,Asia,Ads,0,0.0,0.0
+812,A,Mobile,Europe,Ads,0,0.0,0.0
+813,A,Tablet,Asia,Organic,0,0.0,0.0
+814,B,Desktop,Europe,Organic,1,202.44750935441095,202.44750935441095
+815,B,Mobile,Asia,Ads,0,0.0,0.0
+816,A,Desktop,Europe,Email,0,0.0,0.0
+817,A,Desktop,Europe,Email,1,180.4680207736822,180.4680207736822
+818,A,Tablet,Europe,Organic,0,0.0,0.0
+819,B,Desktop,Europe,Email,1,138.07899873857875,138.07899873857875
+820,A,Tablet,North America,Organic,0,0.0,0.0
+821,A,Mobile,Europe,Email,0,0.0,0.0
+822,B,Tablet,North America,Ads,0,0.0,0.0
+823,B,Mobile,North America,Organic,0,0.0,0.0
+824,A,Tablet,Europe,Organic,0,0.0,0.0
+825,B,Desktop,North America,Ads,0,0.0,0.0
+826,B,Tablet,Asia,Organic,0,0.0,0.0
+827,A,Tablet,Europe,Email,0,0.0,0.0
+828,B,Mobile,North America,Email,0,0.0,0.0
+829,A,Desktop,Europe,Organic,0,0.0,0.0
+830,B,Tablet,Europe,Email,1,72.38324596288288,72.38324596288288
+831,A,Desktop,Europe,Organic,0,0.0,0.0
+832,A,Tablet,North America,Ads,0,0.0,0.0
+833,A,Tablet,Asia,Organic,0,0.0,0.0
+834,B,Desktop,Asia,Ads,0,0.0,0.0
+835,A,Tablet,North America,Email,0,0.0,0.0
+836,B,Desktop,Europe,Ads,0,0.0,0.0
+837,A,Tablet,North America,Email,0,0.0,0.0
+838,A,Mobile,North America,Organic,0,0.0,0.0
+839,B,Desktop,North America,Email,0,0.0,0.0
+840,A,Tablet,Europe,Organic,0,0.0,0.0
+841,A,Tablet,North America,Organic,0,0.0,0.0
+842,B,Mobile,Europe,Ads,0,0.0,0.0
+843,A,Desktop,North America,Ads,0,0.0,0.0
+844,A,Tablet,Asia,Ads,0,0.0,0.0
+845,A,Mobile,North America,Ads,0,0.0,0.0
+846,A,Tablet,North America,Email,0,0.0,0.0
+847,B,Desktop,Asia,Email,0,0.0,0.0
+848,B,Tablet,Europe,Email,0,0.0,0.0
+849,A,Tablet,Europe,Organic,0,0.0,0.0
+850,B,Tablet,North America,Email,0,0.0,0.0
+851,A,Tablet,Asia,Email,0,0.0,0.0
+852,B,Mobile,Europe,Email,0,0.0,0.0
+853,A,Mobile,North America,Ads,0,0.0,0.0
+854,A,Desktop,Asia,Email,0,0.0,0.0
+855,A,Mobile,Europe,Organic,0,0.0,0.0
+856,A,Mobile,Europe,Ads,0,0.0,0.0
+857,A,Desktop,Asia,Organic,0,0.0,0.0
+858,A,Mobile,Asia,Email,0,0.0,0.0
+859,B,Mobile,Asia,Ads,0,0.0,0.0
+860,A,Desktop,Asia,Organic,0,0.0,0.0
+861,B,Desktop,North America,Email,0,0.0,0.0
+862,A,Desktop,Asia,Organic,0,0.0,0.0
+863,B,Tablet,Europe,Organic,0,0.0,0.0
+864,B,Tablet,Europe,Organic,0,0.0,0.0
+865,B,Desktop,North America,Email,0,0.0,0.0
+866,A,Desktop,Europe,Email,0,0.0,0.0
+867,A,Desktop,Europe,Organic,0,0.0,0.0
+868,B,Tablet,Asia,Ads,1,85.21453515771046,85.21453515771046
+869,A,Tablet,Europe,Ads,0,0.0,0.0
+870,B,Mobile,North America,Email,0,0.0,0.0
+871,A,Mobile,Asia,Email,0,0.0,0.0
+872,B,Desktop,Asia,Email,0,0.0,0.0
+873,B,Tablet,North America,Email,0,0.0,0.0
+874,A,Tablet,Asia,Email,0,0.0,0.0
+875,B,Tablet,Asia,Ads,0,0.0,0.0
+876,A,Desktop,North America,Email,0,0.0,0.0
+877,B,Mobile,Asia,Organic,1,180.7390958745808,180.7390958745808
+878,B,Desktop,North America,Organic,0,0.0,0.0
+879,A,Mobile,North America,Ads,0,0.0,0.0
+880,A,Mobile,Europe,Organic,0,0.0,0.0
+881,A,Desktop,Europe,Ads,0,0.0,0.0
+882,B,Mobile,Asia,Ads,0,0.0,0.0
+883,A,Mobile,Asia,Organic,0,0.0,0.0
+884,B,Tablet,North America,Email,0,0.0,0.0
+885,B,Mobile,Asia,Organic,0,0.0,0.0
+886,A,Desktop,North America,Organic,0,0.0,0.0
+887,A,Desktop,North America,Ads,0,0.0,0.0
+888,B,Mobile,Asia,Organic,0,0.0,0.0
+889,B,Tablet,North America,Ads,0,0.0,0.0
+890,A,Tablet,Europe,Email,0,0.0,0.0
+891,A,Mobile,Asia,Email,0,0.0,0.0
+892,A,Mobile,Europe,Email,0,0.0,0.0
+893,A,Desktop,Asia,Organic,0,0.0,0.0
+894,A,Mobile,North America,Ads,1,51.77893009423102,51.77893009423102
+895,B,Tablet,Asia,Email,0,0.0,0.0
+896,B,Mobile,Europe,Ads,0,0.0,0.0
+897,B,Desktop,North America,Ads,0,0.0,0.0
+898,B,Desktop,Asia,Email,0,0.0,0.0
+899,A,Desktop,Asia,Email,0,0.0,0.0
+900,A,Desktop,Asia,Ads,0,0.0,0.0
+901,A,Desktop,Europe,Email,0,0.0,0.0
+902,B,Mobile,Europe,Ads,0,0.0,0.0
+903,B,Mobile,Asia,Ads,1,32.27656671049066,32.27656671049066
+904,A,Mobile,North America,Email,0,0.0,0.0
+905,A,Mobile,North America,Organic,0,0.0,0.0
+906,B,Desktop,Europe,Email,1,18.93164230965155,18.93164230965155
+907,B,Tablet,North America,Organic,0,0.0,0.0
+908,A,Mobile,Europe,Ads,0,0.0,0.0
+909,A,Tablet,Asia,Ads,0,0.0,0.0
+910,B,Mobile,Europe,Organic,0,0.0,0.0
+911,A,Mobile,Europe,Ads,0,0.0,0.0
+912,A,Tablet,Asia,Organic,0,0.0,0.0
+913,A,Desktop,North America,Organic,0,0.0,0.0
+914,B,Mobile,Europe,Ads,0,0.0,0.0
+915,B,Mobile,Europe,Organic,0,0.0,0.0
+916,B,Mobile,Asia,Email,0,0.0,0.0
+917,B,Tablet,North America,Email,0,0.0,0.0
+918,B,Desktop,Europe,Ads,1,101.60766946068787,101.60766946068787
+919,B,Tablet,Asia,Ads,0,0.0,0.0
+920,B,Tablet,Europe,Organic,1,113.4378757489831,113.4378757489831
+921,A,Desktop,Asia,Organic,1,187.6636467606031,187.6636467606031
+922,A,Tablet,North America,Organic,0,0.0,0.0
+923,A,Desktop,North America,Organic,0,0.0,0.0
+924,A,Mobile,North America,Email,0,0.0,0.0
+925,A,Desktop,North America,Email,0,0.0,0.0
+926,A,Mobile,Europe,Ads,0,0.0,0.0
+927,A,Tablet,Europe,Organic,0,0.0,0.0
+928,B,Tablet,North America,Organic,0,0.0,0.0
+929,B,Mobile,North America,Ads,1,114.21634995429899,114.21634995429899
+930,A,Tablet,North America,Organic,1,45.10307712595694,45.10307712595694
+931,A,Desktop,Europe,Organic,0,0.0,0.0
+932,B,Mobile,North America,Organic,0,0.0,0.0
+933,A,Tablet,North America,Organic,0,0.0,0.0
+934,A,Mobile,North America,Organic,0,0.0,0.0
+935,B,Desktop,Asia,Ads,0,0.0,0.0
+936,A,Desktop,North America,Organic,0,0.0,0.0
+937,B,Tablet,Asia,Ads,0,0.0,0.0
+938,A,Desktop,Asia,Organic,1,87.5485559335794,87.5485559335794
+939,B,Mobile,North America,Email,0,0.0,0.0
+940,B,Desktop,Asia,Email,0,0.0,0.0
+941,B,Mobile,North America,Email,0,0.0,0.0
+942,A,Mobile,Europe,Email,0,0.0,0.0
+943,B,Desktop,Europe,Ads,0,0.0,0.0
+944,A,Tablet,Europe,Ads,1,25.98171327294887,25.98171327294887
+945,A,Desktop,Europe,Organic,0,0.0,0.0
+946,A,Mobile,Asia,Email,0,0.0,0.0
+947,A,Mobile,North America,Ads,0,0.0,0.0
+948,B,Desktop,North America,Organic,0,0.0,0.0
+949,B,Tablet,North America,Organic,0,0.0,0.0
+950,A,Tablet,Europe,Ads,0,0.0,0.0
+951,A,Mobile,Europe,Email,0,0.0,0.0
+952,B,Mobile,North America,Organic,0,0.0,0.0
+953,A,Tablet,Europe,Email,0,0.0,0.0
+954,B,Desktop,North America,Email,0,0.0,0.0
+955,A,Mobile,North America,Email,0,0.0,0.0
+956,A,Mobile,North America,Organic,0,0.0,0.0
+957,B,Tablet,North America,Email,0,0.0,0.0
+958,A,Desktop,North America,Organic,0,0.0,0.0
+959,B,Tablet,North America,Email,0,0.0,0.0
+960,A,Desktop,North America,Organic,0,0.0,0.0
+961,A,Desktop,Europe,Email,0,0.0,0.0
+962,A,Desktop,North America,Ads,0,0.0,0.0
+963,B,Mobile,North America,Email,1,133.25264171817756,133.25264171817756
+964,A,Tablet,Europe,Email,0,0.0,0.0
+965,A,Tablet,Europe,Organic,1,81.85605642073588,81.85605642073588
+966,A,Desktop,Europe,Organic,0,0.0,0.0
+967,A,Mobile,North America,Email,1,134.044864374299,134.044864374299
+968,B,Mobile,Asia,Ads,0,0.0,0.0
+969,B,Tablet,Asia,Ads,0,0.0,0.0
+970,A,Mobile,Europe,Organic,0,0.0,0.0
+971,B,Mobile,Asia,Ads,0,0.0,0.0
+972,A,Desktop,Europe,Email,1,65.89658689030526,65.89658689030526
+973,A,Mobile,North America,Organic,0,0.0,0.0
+974,A,Desktop,Asia,Email,0,0.0,0.0
+975,B,Tablet,North America,Organic,0,0.0,0.0
+976,B,Mobile,Asia,Organic,1,22.29298021421367,22.29298021421367
+977,B,Tablet,North America,Organic,0,0.0,0.0
+978,B,Tablet,Asia,Organic,0,0.0,0.0
+979,B,Mobile,North America,Ads,0,0.0,0.0
+980,B,Mobile,North America,Email,0,0.0,0.0
+981,B,Tablet,Asia,Email,0,0.0,0.0
+982,B,Mobile,North America,Email,0,0.0,0.0
+983,B,Desktop,North America,Organic,0,0.0,0.0
+984,A,Desktop,North America,Ads,0,0.0,0.0
+985,B,Mobile,Asia,Email,0,0.0,0.0
+986,B,Tablet,Asia,Ads,1,46.32604484775628,46.32604484775628
+987,B,Mobile,North America,Organic,0,0.0,0.0
+988,B,Mobile,North America,Email,0,0.0,0.0
+989,B,Tablet,Asia,Ads,0,0.0,0.0
+990,B,Tablet,Asia,Organic,0,0.0,0.0
+991,B,Desktop,North America,Ads,0,0.0,0.0
+992,B,Tablet,North America,Email,0,0.0,0.0
+993,B,Desktop,North America,Email,0,0.0,0.0
+994,B,Tablet,Europe,Organic,1,44.33591998797023,44.33591998797023
+995,B,Mobile,Asia,Organic,0,0.0,0.0
+996,A,Desktop,Europe,Organic,1,1.179375651066386,1.179375651066386
+997,A,Desktop,Asia,Ads,1,38.24743531261698,38.24743531261698
+998,B,Desktop,Asia,Ads,0,0.0,0.0
+999,B,Mobile,Asia,Ads,0,0.0,0.0
+1000,A,Mobile,Asia,Organic,0,0.0,0.0
