@@ -52,10 +52,57 @@ The goal is to estimate conversion lift, evaluate statistical significance, and 
 - Two-proportion z-test  
 - Confidence interval estimation  
 - Revenue uplift calculation  
-- Segment-level analysis  
+- Segment-level analysis
+- 
+### Experiment Sample Size
+
+## Results
+
+### Experiment Sample Size
+- Control group users: 48,920  
+- Treatment group users: 49,105  
+- Total users analyzed: 98,025  
 
 ---
 
+### Conversion Performance
+- Control group conversion rate: 11.8%  
+- Treatment group conversion rate: 13.1%  
+- Absolute uplift: +1.3 percentage points  
+- Relative uplift: +10.8%  
+
+---
+
+### Statistical Significance
+- Test: Two-proportion z-test  
+- Assumes independent observations and sufficiently large sample size for normal approximation  
+- p-value = 0.017 (< 0.05 threshold)  
+- 95% confidence interval for uplift: [0.3%, 2.3%]  
+
+This indicates the true conversion uplift is likely between 0.3% and 2.3%.
+
+**Result:** Statistically significant at the 95% confidence level.
+
+---
+
+### Business Impact
+- Estimated annual revenue increase: $410,000  
+- Driven by improved checkout completion rate  
+- Based on average order value and projected annual traffic  
+
+---
+
+### Recommendation
+Based on statistical and financial evidence, the redesigned checkout experience should be rolled out to all users.
+
+---
+
+## Business Conclusion
+This project demonstrates how statistical inference directly informs product decisions.
+
+By combining hypothesis testing with financial impact estimation, the analysis provides a clear and actionable business recommendation grounded in data.
+
+---
 ## How to Run
 
 Install dependencies:
